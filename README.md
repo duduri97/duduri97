@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👨‍💻 duduri97's Universe
 
-<!--
-**duduri97/duduri97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Welcome%20to%20duduri97's%20Profile&fontSize=40" />
+</p>
 
-Here are some ideas to get you started:
+### 💫 About Me
+- 🔭 **Working on:** All4land
+- 🌱 **Learning:** React, TypeScript, Python, AI
+- 💬 **Ask me about:** 궁금한 게 있다면 언제든 물어보세요!
+- 📫 **Contact:** ginamkim97@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📊 Weekly Coding Activity
+---
+
+### 🛠 Tech Stack
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=duduri97&show_icons=true&theme=radical" alt="duduri97's GitHub Stats" />
+</p>
